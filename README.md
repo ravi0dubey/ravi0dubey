@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on written content and building communities
 📫 How to reach me: ravi0dubey@gmail
 
-• LinkedIn • Twitter
+• [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-kumar-dubey-1b842b66/) 
+• Twitter
