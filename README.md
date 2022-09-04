@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 📫 How to reach me: ravi0dubey@gmail
 
 • [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-kumar-dubey-1b842b66/) 
-• [Twitter] (https://twitter.com/ravi0dubey)
+• [Twitter](https://twitter.com/ravi0dubey)
