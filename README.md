@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ravi Ranjan Kumar Dubey,working as a Data Scientist at Hexaware Technologies Canada Working for Client Scholastic Inc.
+### Hi there - I'm Ravi Ranjan Kumar Dubey,working as a Data Scientist at Hexaware Technologies Canada Working for Client Scholastic Inc.
 
 Overrall having 16+ years of experience in in helping clients in their business requirements delivery through data acquisition, analysis and driving insights through machine learning model developments , KPI reporting and driving business to a higher level.
 
