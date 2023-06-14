@@ -1,6 +1,6 @@
 ### Hi there - I'm Ravi Ranjan Kumar Dubey, working as a Data Scientist at Hexaware Technologies Canada Working for Client Scholastic Inc.
-Having 16+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting, and driving business to a higher level.
-Having good knowledge of Python, Machine Learning Algorithms, Supervised Learning, Scikit-Learn, Feature Engineering, Feature Selection, Object-Oriented Programming (OOP), PowerBI, Oracle Fusion Cloud, SQL, and Snowflake.
+Having 16+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting, and driving business to a higher level.\n
+Having good knowledge of Python, Machine Learning Algorithms, Supervised Learning, Scikit-Learn, Feature Engineering, Feature Selection, Object-Oriented Programming (OOP), PowerBI, Oracle Fusion Cloud, SQL, and Snowflake. \n
 Have an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages, and highly motivated to learn, grow and excel in the Data Science Industry.
 Solid understanding of Exploratory Data Analysis using SQL & Python language, PANDAS, NumPy, Matplotlib, Seaborn, MongoDB
 Advanced understanding of statistical, algebraic, and other analytical techniques
