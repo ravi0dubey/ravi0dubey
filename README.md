@@ -12,4 +12,4 @@ Here are some ideas to get you started:</br>
 
 • [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-kumar-dubey-1b842b66/) 
 • [Twitter](https://twitter.com/ravi0dubey)
-![microsoft-certified-power-bi-data-analyst-associate](https://user-images.githubusercontent.com/38419795/192070841-908d536b-b6e8-44c4-a973-0c0454ec3fd8.png)
+
