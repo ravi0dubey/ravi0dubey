@@ -15,3 +15,19 @@ Here are some ideas to get you started:</br>
 • [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-kumar-dubey-1b842b66/) 
 • [Twitter](https://twitter.com/ravi0dubey)
 
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi0dubey&show_icons=true&theme=default)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi0dubey&layout=compact)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravi0dubey&theme=default)
+
+---
+
+### 🏆 GitHub Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi0dubey&theme=default)  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravi0dubey&theme=default)  
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravi0dubey&theme=default)
+
