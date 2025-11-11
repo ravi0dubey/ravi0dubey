@@ -2,7 +2,7 @@
 
 ### Hi, I’m Ravi Ranjan Kumar Dubey  
 
-I’m a **Data Scientist at Relevance Lab Canada**, working with **Scholastic Inc.** to deliver impactful AI-driven solutions.  
+I’m a **Data Scientist at Relevance Lab Canada** to deliver impactful AI-driven solutions.  
 With **19+ years of experience**, I specialize in turning business requirements into actionable insights using **Machine Learning, Deep Learning, Generative AI, and Agentic AI**.  
 I bring expertise in **Python, statistical modeling, feature engineering, and scalable data pipelines** across AWS and other cloud platforms.  
 Passionate about building intelligent systems, I leverage **LLMs, automation, and advanced analytics** to accelerate business value.  
